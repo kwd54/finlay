@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 import fitz # PyMuPDF
 
-st.title("📊 FinLay - 決算書AI要約ツール")
+st.title("📊 FinLay - 決算書AI要約ツール改")
 
 def get_api_key():
     """
